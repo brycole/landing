@@ -1,0 +1,23 @@
+.cards-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.cards-wrapper .card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.cards-wrapper img {
+  height: 100px;
+}
+
+.card-container {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+}
