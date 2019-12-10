@@ -15,6 +15,15 @@
   opacity: .7;
   font-size: 20px;
   margin-bottom: 30px;
+  margin-left: 16px;
+}
+
+.banner h1 {
+  margin-left: 16px;
+}
+
+.banner a {
+  margin-left: 16px;
 }
 
 .footer {

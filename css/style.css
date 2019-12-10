@@ -24,4 +24,8 @@ a {
   text-decoration: none;
 }
 
+.banner .container {
+  margin-left: 16px;
+}
+
 /* Custom design below! */
